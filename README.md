@@ -25,4 +25,4 @@ External API for fetching live exchange rates.
 
 3.Select the target currency from the dropdown.
 
-4.Click the "Convert" button to see the converted amount.
+4.Click the "Get Exchange Rate" button to see the converted amount.
