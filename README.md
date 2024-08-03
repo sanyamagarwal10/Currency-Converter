@@ -15,4 +15,5 @@ Cross-Browser Compatibility: Works on all modern web browsers.
 
 # Technologies Used
 HTML, CSS, JavaScript for front-end development.
+
 External API for fetching live exchange rates.
