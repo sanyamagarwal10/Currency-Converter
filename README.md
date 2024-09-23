@@ -16,9 +16,7 @@ It fetches live exchange rates from an external API and provides a simple, intui
 - CSS3 for styling and making it responsive across different devices.
 - JavaScript for fetching exchange rates and performing the currency conversion.
 - ExchangeRate API for fetching the latest exchange rates.
-
-External API for fetching live exchange rates.
-
+- 
 # Usage
 1. Select the base currency from the dropdown.
 2. Enter the amount to convert.
