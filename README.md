@@ -11,7 +11,11 @@ It fetches live exchange rates from an external API and provides a simple, intui
 - Cross-Browser Compatibility: Works on all modern web browsers.
 
 # Technologies Used
-HTML, CSS, JavaScript for front-end development.
+
+- HTML5 for the structure and layout of the webpage.
+- CSS3 for styling and making it responsive across different devices.
+- JavaScript for fetching exchange rates and performing the currency conversion.
+- ExchangeRate API for fetching the latest exchange rates.
 
 External API for fetching live exchange rates.
 
