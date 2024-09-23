@@ -16,10 +16,7 @@ HTML, CSS, JavaScript for front-end development.
 External API for fetching live exchange rates.
 
 # Usage
-1.Select the base currency from the dropdown.
-
-2.Enter the amount to convert.
-
-3.Select the target currency from the dropdown.
-
-4.Click the "Get Exchange Rate" button to see the converted amount.
+1. Select the base currency from the dropdown.
+2. Enter the amount to convert.
+3. Select the target currency from the dropdown.
+4. Click the "Get Exchange Rate" button to see the converted amount.
