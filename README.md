@@ -5,9 +5,13 @@ It fetches live exchange rates from an external API and provides a simple, intui
 # Features
 
 Live Exchange Rates: Fetches real-time exchange rates using an API.
-Currency Conversion: Allows users to convert from one currency to another.
+
+Currency Conversion: Allows users to convert from one currency to another
+
 User-Friendly Interface: Simple and responsive design for ease of use.
+
 Historical Rates: Option to view historical exchange rates for analysis.
+
 Cross-Browser Compatibility: Works on all modern web browsers.
 
 # Technologies Used
